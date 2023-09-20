@@ -1,4 +1,4 @@
-# Olá, me chamo Alexander ! 👋
+# Olá, sou o Alexander ! 👋
 Atualmente estou trabalhando como Desenvolvedor Frontend na Educbank
 
 
